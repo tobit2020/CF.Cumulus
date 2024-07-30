@@ -1,0 +1,9 @@
+{
+	"name": "cumulus-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b550fc1-3e79-4546-8b61-c31eb3fb78db",
+		"tenantId": "e6cc7ea4-6c70-4e5f-b04c-03b9a93f5b1d"
+	}
+}
