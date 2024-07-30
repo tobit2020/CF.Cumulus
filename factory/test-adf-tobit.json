@@ -1,0 +1,9 @@
+{
+	"name": "test-adf-tobit",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb40fea4-3494-4a1a-8e9f-229ec833dc92",
+		"tenantId": "e6cc7ea4-6c70-4e5f-b04c-03b9a93f5b1d"
+	}
+}
